@@ -1,3 +1,0 @@
-/ = homepage (get)-> Response [index.html]
-/?<search> = search -> Response [List of all 6 titles]
-/bookID = selected book -> Response [book.html, Book Title, Description, Cover, list of similar titles etc.]
